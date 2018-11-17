@@ -68,7 +68,7 @@ export default {
             let paddingLeft = 1 + this.first * this.row.countParents() * 1.5;
 
             return {
-                'padding-left': paddingLeft + 'rem',
+                'padding-right': paddingLeft + 'rem',
             };
         },
 

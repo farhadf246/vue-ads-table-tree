@@ -19,7 +19,7 @@
                 <input
                     class="appearance-none border rounded py-2 px-3 text-grey-darker "
                     type="text"
-                    placeholder="Filterable..."
+                    placeholder="جستجو..."
                     v-model="currentFilter"
                 >
             </div>
